@@ -3,3 +3,5 @@ README for Data Analytics with Python
 Both the Financial Analysis and the Vote Results require the csv files from their respective "resources" folders to run. 
 
 They will then output the results both to the terminal, and a .txt file for easy viewing.
+
+Each file's code is named main.py
