@@ -1,0 +1,13 @@
+There are two important observations which can be made from this dataset:
+
+1.
+Though this would require a deeper dive into what's going on, it would appear that as school funding per student increases, student scores decrease.
+This isn't something you should take at face value, this should be the start of a bigger investigation as to why this happens.
+
+2. 
+There is a large difference between passing rates of charters and districts. Charters have significantly higher overall passing rates.
+This could be because charters and districts are used in different geographical locations, or house different demographics of students.
+
+
+In summary, both of these observations are easy to see in the data yet could be caused by many different things.
+Using this data for anything other than a basic analysis would require a deeper dive into the causes of these trends.
