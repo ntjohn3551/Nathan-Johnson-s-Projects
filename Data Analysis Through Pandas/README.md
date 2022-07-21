@@ -2,6 +2,7 @@ README for Data Analysis Through Pandas
 
 
 The data used for this project can be found in the "PyCitySchools" folder, and then in the "Resources" folder
+
 WARNING: students_complete.csv is very large and may take a significant time to preview.
 
 
