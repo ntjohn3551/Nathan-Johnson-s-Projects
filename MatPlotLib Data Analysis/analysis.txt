@@ -1,0 +1,20 @@
+Analysis for Mouse Pharmaceuticals data
+----------------------------------------------------
+
+One of the most prominent anomalies I noticed in the data was that every tumor started out the same size, 
+(at time 0) which doesn't seem very realistic to me, if I observed this in real life I'd take time to read 
+the procedure done to give the mice the tumors, perhaps that would explain how they all started the same size 
+at the same time.
+
+
+The next major anomaly I noticed was that weight compared to tumor data showed that while there was a general uptrend 
+that indicated as the weight of the mouse increases, the volume of the tumor will increase, there was also a notable 
+pattern where as the weight of the mouse increases, the spread of the tumor volume will decrease, which I'd think 
+would be the opposite, i.e., as mouse weight increases, tumor volume spread increases, this may be due to the 
+fact that the pharmaceutical poorer on heavier mice, or that some of the mice lost weight over the course of the study.
+
+
+The final, and perhaps most important observation to make, is that both Capomulin and Ramicane work equally well in 
+reducing tumor size. If I was to continue this study, using what I've observed, I'd put a serious emphasis on comparing 
+how well both medications work under varying conditions, so lets say varying mouse size, and perhaps one works better 
+on a larger range of sizes, which would be the ultimate winner.
