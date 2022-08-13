@@ -3,7 +3,7 @@
 Data on weather patterns across the world is analyzed in WeatherPy.ipynb, and locations of hotels in favorable weather conditions is analyzed in VacationPy.ipynb.
 
 ## Results
-Results can be found in the "Graphs" folder, as well as in the screenshots of the heatmaps in the main part of the repo. To get a clickable version of the hotel heatmap, the code must be run in a jupyter notebook.
+Results can be found in the "Graphs" folder, an analysis can be found by previewing WeatherPy.ipynb and scrolling to the bottom, and screenshots of the heatmaps are in the main part of the repo. To get a clickable version of the hotel heatmap, the code must be run in a jupyter notebook.
 
 A CSV has been included with weather data for randomly selected cities.
 
