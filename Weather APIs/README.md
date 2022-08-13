@@ -1,4 +1,4 @@
-# Weather API analysis
+# Weather API Analysis
 
 Data on weather patterns across the world is analyzed in WeatherPy.ipynb, and locations of hotels in favorable weather conditions is analyzed in VacationPy.ipynb.
 
