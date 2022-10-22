@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font: 12px Arial;
+  background: white;
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.712);
+}
+
+.legend a {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin: 0 7px;
+}
